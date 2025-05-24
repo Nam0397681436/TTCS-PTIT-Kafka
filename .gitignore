@@ -28,4 +28,7 @@ connect.configs
 
 # Temporary files
 *.tmp
-*.temp 
+*.temp
+
+# Components
+components/*.zip 
